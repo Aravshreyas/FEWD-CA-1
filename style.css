@@ -1,0 +1,168 @@
+body {
+  background-color: black;
+  color: white;
+  display: grid;
+  grid-template-columns: 15% auto;
+  font-family: DM Sans;
+}
+
+/*           sidebar             */
+.main {
+}
+.logo {
+  height: 45px;
+  margin: 20px;
+}
+.onee {
+  height: 25px;
+}
+.one {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
+.two {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
+.content {
+  margin-bottom: 30px;
+}
+.content3 {
+  width: 50px;
+
+  margin: 10px;
+}
+.installl {
+  height: 30px;
+}
+.install {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
+.content article {
+  margin: 8px;
+  font-size: 14px;
+}
+.content span {
+  margin-left: 15px;
+  justify-content: center;
+}
+.home {
+  background-color: grey;
+  width: 150px;
+  height: 40px;
+}
+.content3 {
+  margin: 15px;
+}
+.text2 {
+  display: flex;
+  margin: 15px;
+  width: 127px;
+  font-size: 14px;
+}
+.instal {
+  margin-left: 15px;
+}
+.install {
+  margin-top: 30px;
+}
+
+/*        main content      */
+
+.maincontent {
+  background-color: rgb(18, 18, 18);
+}
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+img[class="nav"] {
+  margin-left: 25px;
+  height: 45px;
+}
+.gm {
+  margin-left: 25px;
+}
+.same {
+  height: 60px;
+}
+.playlists {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-template-rows: auto auto;
+  row-gap: 40px;
+  margin-left: 25px;
+}
+.playlist {
+  display: flex;
+  background-color: rgb(48, 48, 48);
+  width: 250px;
+}
+.text{
+    font-size: 1em;
+    align-content: center;
+}
+.shows{
+    display:grid;
+    grid-template-columns: auto auto auto auto auto auto ;
+    gap: 5px;
+}
+.showw{
+    height: 110px;
+    width: 115px;
+    
+}
+.show{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(28, 28, 28);
+    width: 150px;
+    height: 200px;
+   align-content: center;
+   flex-wrap: wrap;
+   justify-content: center;
+}
+.showt2{
+    color: grey;
+
+}
+
+
+.play{
+    display: grid;
+  grid-template-columns: 500px 650px  auto;
+}
+.imag2{
+    height: 50px;
+}
+.options{
+    height: 35px;
+}
+.music{
+    display: flex;
+    
+}
+.imag1{
+height: 67px;
+margin-right: 10px;
+}
+.heart{
+    height:20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.txt10{
+  color: grey;  
+}
+.musictxt{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.text{
+    margin-left: 5px;
+}
